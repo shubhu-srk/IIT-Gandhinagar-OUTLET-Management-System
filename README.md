@@ -1,6 +1,7 @@
 # IIT Gandhinagar Outlets Management System
 
 > A web-based application for managing retail outlets, built with **HTML, CSS, Bootstrap, JavaScript, Flask, and MySQL**.
+ <img src="./static/IITGN_Outlet.jpg">
 
 **1) Installation requirements:**\
 pip install virtualenv\
