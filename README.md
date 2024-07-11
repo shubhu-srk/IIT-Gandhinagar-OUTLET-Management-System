@@ -29,7 +29,9 @@
 
 <!-- tocstop -->
 ## Results
-
+- [Database Design and ER Diagrams](DBMS_Assignment-1.pdf)
+- [Developing the DBMS using MySQL](DBMS_Assignment-2.pdf)
+- [Implementation of WebApp using Flask](Database_Assignment-3.pdf)
 
 
 
