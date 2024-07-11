@@ -1,28 +1,35 @@
 # IIT Gandhinagar Outlets Management System
 
-> A web-based application for managing retail outlets, built with **HTML, CSS, Bootstrap, JavaScript, Flask, and MySQL**.
+> A web-based application for managing retail outlets for IIT Gandhinagar, built with **HTML, CSS, Bootstrap, JavaScript, Flask, and MySQL**.
  <img src="./static/IITGN_Outlet.jpg">
 
-**1) Installation requirements:**\
-pip install virtualenv\
-pip install Flask\
-pip install flask-mysqldb\
-pip install mysqlclient
 
-**2) Login Credentials:**\
-In App.py Change your MYSQL Configurations
+<!-- toc -->
 
-**3) Steps to Run the app**\
-python -m venv venv\
-/venv/Scripts/Activate\
-python app.py
 
-**4)Login Credentials:**\
-Stakeholder:\
-Email:shubham.kshirsagar@iitgn.ac.in\
-Password:password
+<!-- tocstop -->
 
-Student:\
-Email:kajal.singh@iitgn.ac.in\
-Password:password
+## Features
+- User Authentication:
+     - Separate login functionality for IIT Gandhinagar stakeholders and students.
+
+- Stakeholder View:
+  - Manage outlets with Create, Read, Update, and Delete (CRUD) operations.
+  - View and manage stakeholder details.
+  - Access and manage inventory details, including which outlet possesses specific items.
+  - Manage employee details for each outlet.
+  - Track and update rent details for outlets..
+  - Record and view survey details and fines.
+- Student View:
+   - Students can log in and view information.
+   - No editing privileges for students.
+
+<!-- toc -->
+
+
+<!-- tocstop -->
+## Results
+
+
+
 
